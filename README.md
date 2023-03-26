@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Julián Boetto</h1>
 <h3 align="center">A passionate full-stack developer from Argentina</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=julianboetto" alt="julianboetto" /></a> </p>
-
 - 🔭 I’m currently working on [Beholder multicoin robot](https://github.com/JulianBoetto/beholder-api) and [Que Buen Dato page](https://www.quebuendato.com.ar/)
-
+- 💼 Full-Stack developer na [BeCapital](https://www.be.capital/)
 - 📫 How to reach me **julib_8724@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -18,4 +16,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=julianboetto&theme=dark&show_icons=true&locale=en&layout=compact" alt="julianboetto" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=julianboetto&theme=dark&show_icons=true&locale=en" alt="julianboetto" /></p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=julianboetto&theme=dark&show_icons=true&locale=en" alt="julianboetto" /></p>
