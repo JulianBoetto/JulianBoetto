@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Julián Boetto</h1>
 <h3 align="center">A passionate full-stack developer from Argentina</h3>
 
-- 🔭 I’m currently working on [Beholder multicoin robot](https://beholder.julianboetto.lat) and [Que Buen Dato page](https://www.quebuendato.com.ar/)
-- 💼 Full-Stack developer na [BeCapital](https://www.be.capital/) - Brazil
+- 🔭 I’m currently working on [V-OWL - Show you project!](https://v-owl.com)
+- 💼 Mechanical Designer on [MgM Robotics](https://www.mgmrobotics.it/) - Italy
 - 📫 How to reach me **julib_8724@hotmail.com**
-- 📑 My portfolio: [Julián Boetto](https://julianboetto.lat)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
