@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Julián Boetto</h1>
 <h3 align="center">A passionate full-stack developer from Argentina</h3>
 
-- 🔭 I’m currently working on [V-OWL - Show you project!](https://v-owl.com)
+- 🔭 I’m currently working on [V-OWL](https://v-owl.com) - Show your project! - Argentina
 - 💼 Mechanical Designer on [MgM Robotics](https://www.mgmrobotics.it/) - Italy
 - 📫 How to reach me **julib_8724@hotmail.com**
 
